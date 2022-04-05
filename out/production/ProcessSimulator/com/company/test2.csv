@@ -1,0 +1,9 @@
+number of Processors = 3,,,
+Task,"	CreationTime","	Requested Time","	Priority"
+t1,0,3,high
+t2,1,7,high
+t3,3,2,high
+t4,7,5,high
+t5,9,4,high
+t6,12,5,high
+t7,4,6,high
